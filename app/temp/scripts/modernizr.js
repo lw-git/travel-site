@@ -1,6 +1,5 @@
 /*!
  * modernizr v3.5.0
- * Build https://modernizr.com/download?-svg-setclasses-dontmin
  * Build https://modernizr.com/download?-flexbox-svg-setclasses-dontmin
  *
  * Copyright (c)
@@ -816,10 +815,6 @@ Detects support for the Flexible Box Layout model, a.k.a. Flexbox, which allows 
 
   Modernizr.addTest('flexbox', testAllProps('flexBasis', '1px', true));
 
-<<<<<<< HEAD
->>>>>>> browser-support
-=======
->>>>>>> browser-support
 /*!
 {
   "name": "SVG",
